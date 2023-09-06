@@ -1,5 +1,5 @@
 import { useEffect } from 'react';
-import { useNavigate } from 'react-router-dom'; // Adjust the import if you are using a different routing library
+import { Link, useNavigate } from 'react-router-dom'; // Adjust the import if you are using a different routing library
 
 interface User {
   // Define the shape of your user object here
