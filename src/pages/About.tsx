@@ -1,6 +1,5 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import Clients from '../../shared/Clients';
 
 import './about.css';
 import videoAboutApp from '../img/1.mp4';
@@ -39,7 +38,6 @@ const About: React.FC = () => {
           </div>
         </section>
       </div>
-      <Clients />
     </>
   );
 };
