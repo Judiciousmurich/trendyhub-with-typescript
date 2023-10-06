@@ -1,10 +1,12 @@
-import React from 'react';
-
+// import React from 'react';
+// import News from '../../shared/News';
+// import Clients from '../../shared/Clients';
+// import BackHome from '../../shared/BackHome';
 
 const Blog: React.FC = () => {
   return (
     <>
-      <BackHome />
+      {/* <BackHome /> */}
       <div className="grid grid-cols-2 sm:grid-cols-3 gap-6 p-6">
         <News
           image="https://demo.phlox.pro/shop-digital/wp-content/uploads/sites/127/2019/10/adult-blur-close-up-267394-1024x573.jpg"
@@ -15,7 +17,7 @@ const Blog: React.FC = () => {
         />
         {/* Other News components */}
       </div>
-      <Clients />
+      {/* <Clients /> */}
     </>
   );
 };
