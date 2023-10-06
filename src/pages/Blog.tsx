@@ -1,7 +1,5 @@
 import React from 'react';
-import News from '../../shared/News';
-import Clients from '../../shared/Clients';
-import BackHome from '../../shared/BackHome';
+
 
 const Blog: React.FC = () => {
   return (
