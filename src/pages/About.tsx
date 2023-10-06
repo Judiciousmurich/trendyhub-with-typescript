@@ -12,7 +12,7 @@ const About: React.FC = () => {
           <Link to="/" className="text-[#666666]">
             Home / About
           </Link>
-          <h1 className="font-bold text-4xl ">About</h1>
+          <h1 className="font-bold text-3xl tracking-wide">About</h1>
         </i>
       </div>
       <div className="flex mb-20">
