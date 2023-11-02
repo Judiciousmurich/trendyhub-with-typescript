@@ -30,7 +30,7 @@ const About: React.FC = () => {
           <button className="bg-[#f42c37] px-6 py-2 text-white rounded-[20px] mx-20">Contact Us</button>
         </div>
         <section id="about-app" className="section-p1">
-          <h1 className="font-bold text-base">
+          <h1 className="font-bold text-base tracking-wide ">
             view<Link to="/">App</Link>
           </h1>
           <div className="video">
